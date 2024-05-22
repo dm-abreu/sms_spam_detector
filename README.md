@@ -51,3 +51,6 @@ Refactor an SMS text classification solution into a function that builds a linea
 - Ensure textboxes have descriptive labels.
 - Provide a public URL for the application.
 - Confirm the application functions correctly after user submissions.
+
+- ![image](https://github.com/dm-abreu/sms_spam_detector/assets/29365155/e72f0530-ec23-428b-bbbc-04de97e4c8de)
+
